@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:flutter_app_bc02/views/sign_up_ui.dart';
+import 'package:flutter_app_bc02/views/Sing_up_ui.dart';
 
 class LoginUI extends StatefulWidget {
   const LoginUI({Key? key}) : super(key: key);
@@ -194,7 +194,7 @@ class _LoginUIState extends State<LoginUI> {
                     );
                   },
                   child: Text(
-                    'Sign up',
+                    'Sing up',
                     style: TextStyle(
                       fontWeight: FontWeight.bold,
                       color: Colors.blue[200],

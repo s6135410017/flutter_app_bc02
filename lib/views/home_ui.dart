@@ -3,7 +3,7 @@ import 'dart:html';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_app_bc02/views/login_ui.dart';
-import 'package:flutter_app_bc02/views/sign_up_ui.dart';
+import 'package:flutter_app_bc02/views/Sing_up_ui.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
 class HomeUI extends StatelessWidget {
@@ -151,7 +151,7 @@ class HomeUI extends StatelessWidget {
                       );
                     },
                     child: Text(
-                      'Sign up here.',
+                      'Sing up here.',
                       style: TextStyle(
                         fontWeight: FontWeight.bold,
                       ),

@@ -64,9 +64,9 @@ flutter:
   fonts:
     - family: Kanit
       fonts:
-        - assets: images/fonts/Kanit-Bold.ttf
-        - assets: images/fonts/Kanit-Regular.ttf
-        - assets: images/fonts/Kanit-ltalic.ttf
+        - assets: fonts/Kanit-Bold.ttf
+        - assets: fonts/Kanit-Regular.ttf
+        - assets: fonts/Kanit-ltalic.ttf
           style: italic
   # fonts:
   #   - family: Schyler
